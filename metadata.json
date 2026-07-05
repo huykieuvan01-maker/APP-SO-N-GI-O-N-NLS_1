@@ -1,0 +1,6 @@
+{
+  "name": "EduSmart Architect",
+  "description": "Chuyên gia Thiết kế Giáo án Năng lực (GDPT 2018)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
